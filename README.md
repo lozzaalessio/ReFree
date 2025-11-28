@@ -1,5 +1,15 @@
-Requisiti Tecnici della Piattaforma
+LOZZA ALESSIO
 
+TITOLO
+ReFree
+
+TAGLINE
+Il mondo dell'arbitraggio a 360°
+
+DESCRIZIONE
+FreeREF è una piattaforma tramite la quale si possono gestire tutti gli aspetti legati al mondo dell'arbitraggio di calcio. Qui si posso trovare quiz regolamentari,  e-commerce di articoli arbitrali di alcun genere, la possibilità di tenere traccia delle proprie gare e confrontarsi con arbitri in tutta Italia.
+
+DESCRIZIONE COMPLETA (requisiti)
 Ruoli Utente
 - Visitatore
 - Arbitro
@@ -59,3 +69,25 @@ L’Organo Tecnico può svolgere tutte le azioni dell’Arbitro, più le seguent
   Creazione di nuove gare da assegnare.
   Assegnazione degli arbitri alle gare.
   Assegnazione di eventuali osservatori alle gare.
+
+
+TARGET
+Arbitri
+
+COMPETITORS
+RefHouse
+Sinfonia4you
+
+TECNOLOGIE
+html, css, php, js
+
+LINK PUBBLICO ALLA WEB APP
+
+https://opulent-giggle-pjqv7x4rq5q9269rj-8080.app.github.dev/login.php
+
+LINK MOCKUP LOVABLE
+
+https://official-nexus.lovable.app
+
+
+
